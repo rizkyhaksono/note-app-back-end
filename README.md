@@ -10,4 +10,4 @@ Jangan lupa di mengaktifkan di route `edge://flags/ ` (sesuaikan pada browser ma
 Prevents non-secure contexts from making subresource requests to more-private IP addresses. – Mac, Windows, Linux, Android
 #block-insecure-private-network-requests.
 ```
-[LICENSE](https://github.com/rizkyhaksono/note-app-back-end/blob/main/LICENSE)
+[LICENSE Project](https://github.com/rizkyhaksono/note-app-back-end/blob/main/LICENSE)
